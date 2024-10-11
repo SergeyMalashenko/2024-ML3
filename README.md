@@ -13,7 +13,7 @@
 |1  |13.09.2024 |Обратное распространение ошибки              |[![Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](seminars/01_backprop/seminar01_backprop.ipynb)<br>[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SergeyMalashenko/2024-ML3/blob/main/seminars/01_backprop/seminar01_backprop.ipynb)|
 |2  |20.09.2024 |Библиотека PyTorch                           |[![Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](seminars/02_pytorch/seminar02_pytorch.ipynb)<br>[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SergeyMalashenko/2024-ML3/blob/main/seminars/02_pytorch/seminar02_pytorch.ipynb)|
 |3  |27.09.2024 |Нейросети и PyTorch                          |[![Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](seminars/03_neuralnetwork/seminar03_neuralnetwork.ipynb)<br>[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SergeyMalashenko/2024-ML3/blob/main/seminars/03_neuralnetwork/seminar03_neuralnetwork.ipynb)|
-|4  |04.10.2024 |                                             |                                                                     |
+|4  |04.10.2024 |Свёртки & сети                               |[![Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](seminars/04_neuralnetwork/seminar04_convolutions.ipynb)<br>[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SergeyMalashenko/2024-ML3/blob/main/seminars/04_neuralnetwork/seminar04_convolutions.ipynb)|
 |5  |11.10.2024 |                                             |                                                                     |
 |6  |18.10.2024 |                                             |                                                                     |
 |7  |25.10.2024 |                                             |                                                                     |
@@ -25,14 +25,3 @@
 |14 |06.12.2024 |                                             |                                                                     |
 |15 |13.12.2024 |                                             |                                                                     |
 |16 |20.12.2024 |                                             |                                                                     |
-
-
-
-
-
-
-
-
-
-
-
