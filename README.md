@@ -26,7 +26,3 @@
 |15 |13.12.2024 |                                             |                                                                     |
 |16 |20.12.2024 |                                             |                                                                     |
 
-|7  |27.10.2023 |Single Shot Detector                         |[github](seminars/07_ssd/seminar07_ssd.ipynb                    )    |
-|8  |03.11.2023 |Segmenatation problem. U-Net model           |[github](seminars/08_segmentation/seminar08_segmentation.ipynb  )    |
-|10 |17.11.2023 |Style Transfer                               |[github](seminars/10_styletransfer/seminar10_styletransfer.ipynb)    |
-|11 |24.11.2023 |Recurrent Neural Networks. CRNN              |[github](seminars/11_crnn/seminar11_crnn.ipynb                  )    |
