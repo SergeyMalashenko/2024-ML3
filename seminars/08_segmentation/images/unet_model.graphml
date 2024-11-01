@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.22-->
+  <key attr.name="Description" attr.type="string" for="graph" id="d0"/>
+  <key for="port" id="d1" yfiles.type="portgraphics"/>
+  <key for="port" id="d2" yfiles.type="portgeometry"/>
+  <key for="port" id="d3" yfiles.type="portuserdata"/>
+  <key attr.name="url" attr.type="string" for="node" id="d4"/>
+  <key attr.name="description" attr.type="string" for="node" id="d5"/>
+  <key for="node" id="d6" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d7" yfiles.type="resources"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d8"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d9"/>
+  <key for="edge" id="d10" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <data key="d0" xml:space="preserve"/>
+    <node id="n0">
+      <data key="d6">
+        <y:ImageNode>
+          <y:Geometry height="391.0" width="388.0" x="-214.546875" y="-73.39285954301073"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="192.0" y="193.5"/>
+          <y:Image refid="1"/>
+        </y:ImageNode>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="d6">
+        <y:ImageNode>
+          <y:Geometry height="388.0" width="389.0" x="1172.8494959677419" y="-59.07812500000003"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="192.5" y="192.0"/>
+          <y:Image refid="2"/>
+        </y:ImageNode>
+      </data>
+    </node>
+    <node id="n2">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="156.953125" width="388.0" x="-214.546875" y="358.921875"/>
+          <y:Fill color="#C0C0C0" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="174.40066528320312" x="106.79966735839844" xml:space="preserve" y="62.464009284973145">Encoder Block 1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n3">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="156.953125" width="388.0" x="-214.546875" y="545.875"/>
+          <y:Fill color="#C0C0C0" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="174.40066528320312" x="106.79966735839844" xml:space="preserve" y="62.464009284973145">Encoder Block 2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n4">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="156.953125" width="388.0" x="-214.546875" y="732.828125"/>
+          <y:Fill color="#C0C0C0" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="174.40066528320312" x="106.79966735839844" xml:space="preserve" y="62.464009284973145">Encoder Block 3<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n5">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="156.953125" width="388.0" x="-214.546875" y="919.78125"/>
+          <y:Fill color="#C0C0C0" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="174.40066528320312" x="106.79966735839844" xml:space="preserve" y="62.464009284973145">Encoder Block 4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n6">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="156.953125" width="388.0" x="-214.546875" y="1106.734375"/>
+          <y:Fill color="#C0C0C0" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="174.40066528320312" x="106.79966735839844" xml:space="preserve" y="62.464009284973145">Encoder Block 5<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n7">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="156.953125" width="388.0" x="535.453125" y="919.78125"/>
+          <y:Fill color="#C0C0C0" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="176.82566833496094" x="105.58716583251953" xml:space="preserve" y="62.464009284973145">Decoder Block 1<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n8">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.bpmn.Event.withShadow">
+          <y:Geometry height="90.546875" width="110.078125" x="373.6328125" y="952.984375"/>
+          <y:Fill color="#FFFFFFE6" color2="#D4D4D4CC" transparent="false"/>
+          <y:BorderStyle color="#27AE27" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="53.0390625" y="94.546875">
+            <y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="4.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:StyleProperties>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.line.color" value="#000000"/>
+            <y:Property class="com.yworks.yfiles.bpmn.view.EventCharEnum" name="com.yworks.bpmn.characteristic" value="EVENT_CHARACTERISTIC_START"/>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.fill2" value="#d4d4d4cc"/>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.fill" value="#ffffffe6"/>
+            <y:Property class="com.yworks.yfiles.bpmn.view.BPMNTypeEnum" name="com.yworks.bpmn.type" value="EVENT_TYPE_PARALLEL_MULTIPLE"/>
+          </y:StyleProperties>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n9">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="156.953125" width="388.0" x="683.890625" y="732.828125"/>
+          <y:Fill color="#C0C0C0" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="176.82566833496094" x="105.58716583251953" xml:space="preserve" y="62.464009284973145">Decoder Block 2<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n10">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.bpmn.Event.withShadow">
+          <y:Geometry height="90.546875" width="110.078125" x="522.0703125" y="766.03125"/>
+          <y:Fill color="#FFFFFFE6" color2="#D4D4D4CC" transparent="false"/>
+          <y:BorderStyle color="#27AE27" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="53.0390625" y="94.546875">
+            <y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="4.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:StyleProperties>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.line.color" value="#000000"/>
+            <y:Property class="com.yworks.yfiles.bpmn.view.EventCharEnum" name="com.yworks.bpmn.characteristic" value="EVENT_CHARACTERISTIC_START"/>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.fill2" value="#d4d4d4cc"/>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.fill" value="#ffffffe6"/>
+            <y:Property class="com.yworks.yfiles.bpmn.view.BPMNTypeEnum" name="com.yworks.bpmn.type" value="EVENT_TYPE_PARALLEL_MULTIPLE"/>
+          </y:StyleProperties>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n11">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="156.953125" width="388.0" x="845.7109375" y="545.875"/>
+          <y:Fill color="#C0C0C0" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="176.82566833496094" x="105.58716583251953" xml:space="preserve" y="62.464009284973145">Decoder Block 3<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n12">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.bpmn.Event.withShadow">
+          <y:Geometry height="90.546875" width="110.078125" x="683.890625" y="579.078125"/>
+          <y:Fill color="#FFFFFFE6" color2="#D4D4D4CC" transparent="false"/>
+          <y:BorderStyle color="#27AE27" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="53.0390625" y="94.546875">
+            <y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="4.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:StyleProperties>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.line.color" value="#000000"/>
+            <y:Property class="com.yworks.yfiles.bpmn.view.EventCharEnum" name="com.yworks.bpmn.characteristic" value="EVENT_CHARACTERISTIC_START"/>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.fill2" value="#d4d4d4cc"/>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.fill" value="#ffffffe6"/>
+            <y:Property class="com.yworks.yfiles.bpmn.view.BPMNTypeEnum" name="com.yworks.bpmn.type" value="EVENT_TYPE_PARALLEL_MULTIPLE"/>
+          </y:StyleProperties>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n13">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="156.953125" width="388.0" x="1007.53125" y="358.921875"/>
+          <y:Fill color="#C0C0C0" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="176.82566833496094" x="105.58716583251953" xml:space="preserve" y="62.464009284973145">Decoder Block 4<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n14">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.bpmn.Event.withShadow">
+          <y:Geometry height="90.546875" width="110.078125" x="845.7109375" y="392.125"/>
+          <y:Fill color="#FFFFFFE6" color2="#D4D4D4CC" transparent="false"/>
+          <y:BorderStyle color="#27AE27" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="53.0390625" y="94.546875">
+            <y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="4.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:StyleProperties>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.line.color" value="#000000"/>
+            <y:Property class="com.yworks.yfiles.bpmn.view.EventCharEnum" name="com.yworks.bpmn.characteristic" value="EVENT_CHARACTERISTIC_START"/>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.fill2" value="#d4d4d4cc"/>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.fill" value="#ffffffe6"/>
+            <y:Property class="com.yworks.yfiles.bpmn.view.BPMNTypeEnum" name="com.yworks.bpmn.type" value="EVENT_TYPE_PARALLEL_MULTIPLE"/>
+          </y:StyleProperties>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n15">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.bpmn.Event.withShadow">
+          <y:Geometry height="90.546875" width="110.078125" x="1285.453125" y="986.1875"/>
+          <y:Fill color="#FFFFFFE6" color2="#D4D4D4CC" transparent="false"/>
+          <y:BorderStyle color="#27AE27" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="296.8011169433594" x="-93.36149597167969" xml:space="preserve" y="94.546875">Upsample and Concatenate<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:StyleProperties>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.line.color" value="#000000"/>
+            <y:Property class="com.yworks.yfiles.bpmn.view.EventCharEnum" name="com.yworks.bpmn.characteristic" value="EVENT_CHARACTERISTIC_START"/>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.fill2" value="#d4d4d4cc"/>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.fill" value="#ffffffe6"/>
+            <y:Property class="com.yworks.yfiles.bpmn.view.BPMNTypeEnum" name="com.yworks.bpmn.type" value="EVENT_TYPE_PARALLEL_MULTIPLE"/>
+          </y:StyleProperties>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n16">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="90.546875" width="668.5603830645163" x="216.5567876344084" y="-73.39285954301073"/>
+          <y:Fill color="#CCFFCC" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="569.6521606445312" x="49.454111209992504" xml:space="preserve" y="29.260884284973145">KERNEL 1x1 | PAD 0 | STRIDE 1 | CH 64 - num_classes<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n17">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.bpmn.Event.withShadow">
+          <y:Geometry height="90.546875" width="110.078125" x="1007.53125" y="224.28515624999997"/>
+          <y:Fill color="#FFFFFFE6" color2="#D4D4D4CC" transparent="false"/>
+          <y:BorderStyle color="#27AE27" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="53.0390625" y="94.54687500000003">
+            <y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="4.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:StyleProperties>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.line.color" value="#000000"/>
+            <y:Property class="com.yworks.yfiles.bpmn.view.EventCharEnum" name="com.yworks.bpmn.characteristic" value="EVENT_CHARACTERISTIC_START"/>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.fill2" value="#d4d4d4cc"/>
+            <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.fill" value="#ffffffe6"/>
+            <y:Property class="com.yworks.yfiles.bpmn.view.BPMNTypeEnum" name="com.yworks.bpmn.type" value="EVENT_TYPE_PARALLEL_MULTIPLE"/>
+          </y:StyleProperties>
+        </y:GenericNode>
+      </data>
+    </node>
+    <node id="n18">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="90.546875" width="172.0390625" x="713.0781081989246" y="-73.39285954301073"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle hasColor="false" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="false" width="4.0" x="84.01953125" y="43.2734375">
+            <y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n19">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="90.546875" width="668.5603830645161" x="216.55678763440847" y="224.28515625"/>
+          <y:Fill color="#CCFFCC" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="463.62664794921875" x="102.4668675576487" xml:space="preserve" y="29.260884284973145">KERNEL 3x3 | PAD 1 | STRIDE 1 | CH 64 - 64<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n20">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="90.546875" width="668.5603830645161" x="216.55678763440847" y="75.44614835349464"/>
+          <y:Fill color="#CCFFCC" transparent="false"/>
+          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="449.526611328125" x="109.51688586819557" xml:space="preserve" y="29.260884284973145">KERNEL 3x3 | PAD 1 | STRIDE 1 | CH 3 - 64<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n21">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="90.546875" width="178.2399529569892" x="1172.8494959677419" y="-73.39285954301073"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle hasColor="false" raised="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="false" width="4.0" x="87.11997647849466" y="43.2734375">
+            <y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge id="e0" source="n0" target="n2">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-32.0" y="18.67829557029154">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e1" source="n2" target="n3">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-32.0" y="13.0">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e2" source="n3" target="n4">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-32.0" y="13.0">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e3" source="n4" target="n5">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-32.0" y="13.0">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e4" source="n5" target="n6">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-32.0" y="13.0">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e5" source="n6" target="n8">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="428.671875" y="1185.2109375"/>
+            <y:Point x="579.0625" y="1185.2109375"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="124.25045776367188" x="99.04676055908203" xml:space="preserve" y="13.987446784973145">6, 6 (x 512)<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e6" source="n5" target="n8">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="152.4505615234375" x="23.86456298828125" xml:space="preserve" y="13.987446784973145">12, 12 (x 256)<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e7" source="n8" target="n7">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="33.638763427734375" y="28.0">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e8" source="n10" target="n9">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="33.63873291015625" y="28.0">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e9" source="n12" target="n11">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="33.63873291015625" y="28.0">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e10" source="n14" target="n13">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="33.63873291015625" y="28.0">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e11" source="n4" target="n10">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="152.4505615234375" x="98.08331298828125" xml:space="preserve" y="13.987446784973145">24, 24 (x 128)<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="n3" target="n12">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="138.3505096435547" x="186.04349517822266" xml:space="preserve" y="13.987446784973145">48, 48 (x 64)<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e13" source="n2" target="n14">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="138.3505096435547" x="266.95365142822266" xml:space="preserve" y="13.987446784973145">96, 96 (x 64)<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e14" source="n11" target="n14">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="0.7432256720422856" y="-48.59855091972264">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e15" source="n9" target="n12">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="0.7432256720422856" y="-48.598550919722584">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e16" source="n7" target="n10">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-3.5498031037809596" y="-51.39265706740457">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e17" source="n13" target="n17">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="3.5798839993328784" y="-42.302531397256075">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e18" source="n17" target="n18">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-69.36736081473396" y="-123.3775937955921">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e19" source="n0" target="n20">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="19.544964862126108" y="27.94777134794782">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e20" source="n20" target="n19">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="-31.999995930989712" y="27.146063068348894">
+            <y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e21" source="n19" target="n17">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="166.5506134033203" x="-21.56828385219785" xml:space="preserve" y="13.987446784973145">192, 192 (x 64)<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+    <edge id="e22" source="n18" target="n21">
+      <data key="d10">
+        <y:GenericEdge configuration="com.yworks.edge.framed">
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Ubuntu Light" fontSize="25" fontStyle="italic" hasBackgroundColor="false" hasLineColor="false" height="32.02510643005371" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="272.5760498046875" x="7.578120930989485" xml:space="preserve" y="13.987447654560029">192, 192 (x num_classes)<y:LabelModel><y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/></y:LabelModel><y:ModelParameter><y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/></y:ModelParameter><y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/></y:EdgeLabel>
+        </y:GenericEdge>
+      </data>
+    </edge>
+  </graph>
+  <data key="d7">
+    <y:Resources>
+      <y:Resource id="1" type="java.awt.image.BufferedImage" xml:space="preserve">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&#13;
+RK5CYII=</y:Resource>
+      <y:Resource id="2" type="java.awt.image.BufferedImage" xml:space="preserve">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</y:Resource>
+    </y:Resources>
+  </data>
+</graphml>
