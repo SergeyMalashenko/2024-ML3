@@ -4,7 +4,7 @@ import numpy as np
 def plot_img_array(img_array, ncol=3):
     nrow = len(img_array) // ncol
 
-    f, plots = plt.subplots(nrow, ncol, sharex='all', sharey='all', figsize=(ncol * 6, nrow * 6))
+    f, plots = plt.subplots(nrow, ncol, sharex='all', sharey='all', figsize=(ncol * 4, nrow * 4))
 
     for i in range(len(img_array)):
         plots[i // ncol, i % ncol]
